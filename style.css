@@ -1,0 +1,22 @@
+h1{
+    color : blueviolet;
+}
+h1{
+    font-size : 50px;
+}
+body{
+    font-family: 'Lobster', cursive;
+}
+.name-highlight{
+    color : blue;
+}
+.half-width{
+    width: 30%;
+    float : left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width : 100%;
+    padding-left: 15%;
+}
